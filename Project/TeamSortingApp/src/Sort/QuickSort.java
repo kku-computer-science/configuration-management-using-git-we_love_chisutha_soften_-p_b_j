@@ -6,8 +6,8 @@ public class QuickSort implements SortInterface {
     
     @Override
     public int[] sort(int[] data) {
-        System.out.println("[Running Selection Sort...]");
-        // --- เขียน logic selection sort ตรงนี้ ---
+        System.out.println("[Running Quick Sort...]");
+        // --- เขียน logic Quick sort ตรงนี้ ---
         return data;
     }
 }
